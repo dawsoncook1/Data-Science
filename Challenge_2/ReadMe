@@ -1,0 +1,2 @@
+Analyzed the data files using sentiment analysis. Then determined how many of the words have a positive or negative sentiment. Finnally, I displayed a histogram using MatPlotLib showing the count of the words that are
+Negative [-1.0, -0.6), Weakly Negative [-0.6, -0.2), Neutral [-0.2, 0.2], Weakly Positive (0.2, 0.6], and Positive (0.6, 1.0].
