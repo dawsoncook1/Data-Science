@@ -1,0 +1,1 @@
+Analyzed csv file containing sample time in milliseconds, radio frequency in MHz, and signal intensity. Then, found out which radio frequencies are showing a structured signal and which are just random noise. Finally, plotted the correct frequencies showing both a polynomial (as a blue line) and linear regression line (as a red line) for each signal.
