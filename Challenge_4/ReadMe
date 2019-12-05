@@ -1,0 +1,1 @@
+ I implement the Mean k-Nearest Neighbors Approximation method. First, I read in the US outline file and plotted the outline of the United States. Then, prompted user for a K-value(number of neighbors they wish to sample, and plotted the reconstruction as a scatter plot using a color map.
